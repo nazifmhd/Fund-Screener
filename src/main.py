@@ -155,7 +155,7 @@ def analyze(
             output_path.parent.mkdir(parents=True, exist_ok=True)
             
             with open(output_path, 'w') as f:
-                json.dump(export_data.dict(), f, indent=2, default=str)
+                json.dump(export_data.model_dump(), f, indent=2, default=str)
             
             console.print(f"[green]✅ Analysis completed successfully![/green]")
             console.print(f"[green]Results saved to: {output_path.absolute()}[/green]")

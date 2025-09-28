@@ -1,0 +1,2223 @@
+{
+  "ticker": "SWIGGY.NS",
+  "analysis_date": "2025-09-28 10:29:22.388525",
+  "data_period": {
+    "start_date": "2024-11-13 00:00:00",
+    "end_date": "2025-09-26 00:00:00",
+    "total_days": 218
+  },
+  "technical_indicators": [
+    {
+      "date": "2024-11-13",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "465.79998779296875",
+      "pct_from_52w_high": "-2.1039046908100154",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-14",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "489.3999938964844",
+      "pct_from_52w_high": "-11.994275116780871",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-18",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "489.3999938964844",
+      "pct_from_52w_high": "-14.160193840874214",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-19",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "489.3999938964844",
+      "pct_from_52w_high": "-15.723331150210276",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-21",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "489.3999938964844",
+      "pct_from_52w_high": "-14.824272312580819",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-22",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "489.3999938964844",
+      "pct_from_52w_high": "-14.875355271942867",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-25",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "489.3999938964844",
+      "pct_from_52w_high": "-11.994275116780871",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-26",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "489.3999938964844",
+      "pct_from_52w_high": "-5.6191255298251335",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-27",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "508.0",
+      "pct_from_52w_high": "-1.7618134265809549",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-28",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "517.0",
+      "pct_from_52w_high": "-4.932301740812379",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-11-29",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "517.0",
+      "pct_from_52w_high": "-8.945841392649903",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-02",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "517.0",
+      "pct_from_52w_high": "-4.506767464790861",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-03",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "541.9500122070312",
+      "pct_from_52w_high": "-7.399207528423664",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-04",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "541.9500122070312",
+      "pct_from_52w_high": "-4.456135043841813",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-05",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "576.7000122070312",
+      "pct_from_52w_high": "-6.36379598234796",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-06",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "576.7000122070312",
+      "pct_from_52w_high": "-5.548812089934936",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-09",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "576.7000122070312",
+      "pct_from_52w_high": "-6.910011405858592",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-10",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "576.7000122070312",
+      "pct_from_52w_high": "-5.71354456555871",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-11",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "576.7000122070312",
+      "pct_from_52w_high": "-9.389634691844435",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-12",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "576.7000122070312",
+      "pct_from_52w_high": "-12.554191586885455",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-13",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "576.7000122070312",
+      "pct_from_52w_high": "-7.690313106005692",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-16",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "612.4000244140625",
+      "pct_from_52w_high": "-2.620843923623535",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-17",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "613.4000244140625",
+      "pct_from_52w_high": "-4.401695292691125",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-18",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "613.4000244140625",
+      "pct_from_52w_high": "-5.877086304742334",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-19",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "613.4000244140625",
+      "pct_from_52w_high": "-5.0864054393924105",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-20",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "613.4000244140625",
+      "pct_from_52w_high": "-2.600262727779831",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-23",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-5.451152445217906",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-24",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-7.970194910085119",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-26",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-9.43625484397968",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-27",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-11.55839575520403",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-30",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-10.797013558545451",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2024-12-31",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-12.376472523846772",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-01",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-12.141586536393731",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-02",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-9.857439946417994",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-03",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-12.287376816112332",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-06",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-13.802043397351532",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-07",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-17.503643273877202",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-08",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-20.524863793119984",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-09",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-17.787135908674873",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-10",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-20.24947391411949",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-13",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-24.979748054226274",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-14",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-24.744857123054015",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-15",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-21.059452870684268",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-16",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-21.75603279584229",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-17",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-23.359790141096713",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-20",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-22.371614825343837",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-21",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-28.64895173872088",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-22",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-29.742423330083334",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-23",
+      "sma_50": null,
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-25.336140772602462",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-24",
+      "sma_50": "504.7770001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-27.255791888404836",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-27",
+      "sma_50": "503.8579998779297",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-33.57362774961011",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-28",
+      "sma_50": "503.4629998779297",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-33.42782758245308",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-29",
+      "sma_50": "503.625",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-30.633400182304587",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-30",
+      "sma_50": "503.4709997558594",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-34.43220346608109",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-01-31",
+      "sma_50": "503.45599975585935",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-32.5935502459352",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-01",
+      "sma_50": "503.8329998779297",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-29.458930695285662",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-03",
+      "sma_50": "504.3869995117187",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-25.741130250884854",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-04",
+      "sma_50": "503.82999938964844",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-29.685728758099174",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-05",
+      "sma_50": "502.20999938964843",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-32.277661419106465",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-06",
+      "sma_50": "500.15399963378906",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.032233939166346",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-07",
+      "sma_50": "498.35199951171876",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-38.336303025467174",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-10",
+      "sma_50": "495.7199993896484",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.341322976834824",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-11",
+      "sma_50": "492.3499993896484",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-45.9987019770823",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-12",
+      "sma_50": "488.82199951171873",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.694637834500696",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-13",
+      "sma_50": "485.3319995117188",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-40.79053827511461",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-14",
+      "sma_50": "481.2529992675781",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.79993411011027",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-17",
+      "sma_50": "477.2809997558594",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-45.20492358839266",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-18",
+      "sma_50": "473.36399963378904",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-43.64166519096648",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-19",
+      "sma_50": "470.46099975585935",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-38.86278934723428",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-20",
+      "sma_50": "467.8470001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-39.47837137673583",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-21",
+      "sma_50": "464.41100036621094",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.592419419601434",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-24",
+      "sma_50": "459.77700073242187",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-40.928235686474466",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-25",
+      "sma_50": "455.15100036621095",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.47529351602551",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-27",
+      "sma_50": "450.4930010986328",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.200547704764645",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-02-28",
+      "sma_50": "445.54200073242185",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-45.78810942586314",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-03",
+      "sma_50": "440.11900024414064",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-47.14077527207017",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-04",
+      "sma_50": "435.44699951171873",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-43.29337522838747",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-05",
+      "sma_50": "431.255",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.924508814305305",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-06",
+      "sma_50": "427.325",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.26842783697552",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-07",
+      "sma_50": "423.625",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.52761714810087",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-10",
+      "sma_50": "419.80499938964846",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.73821464303925",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-11",
+      "sma_50": "416.0439990234375",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.839784046479664",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-12",
+      "sma_50": "412.1729992675781",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-43.49586996752866",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-13",
+      "sma_50": "408.1079992675781",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.783084530776286",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-17",
+      "sma_50": "404.3729992675781",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.54009084380685",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-18",
+      "sma_50": "400.825",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.54009084380685",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-19",
+      "sma_50": "397.8520001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.58431666380425",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-20",
+      "sma_50": "395.1270001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.59679035951023",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-21",
+      "sma_50": "391.99",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-43.196176764855856",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-24",
+      "sma_50": "389.1730004882813",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-43.06657716557395",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-25",
+      "sma_50": "386.66100036621094",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-45.32642043187738",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-26",
+      "sma_50": "383.84700073242186",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-47.537661994555386",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-27",
+      "sma_50": "380.8160009765625",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-45.60991306667505",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-03-28",
+      "sma_50": "377.76000122070315",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-46.50898773097427",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-01",
+      "sma_50": "374.9360009765625",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-46.23359785197378",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-02",
+      "sma_50": "372.2440008544922",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.17624932481155",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-03",
+      "sma_50": "370.33800048828124",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.08715361707711",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-04",
+      "sma_50": "368.41100036621094",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-45.350718811830475",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-07",
+      "sma_50": "365.6270007324219",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-47.885951957134395",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-08",
+      "sma_50": "363.3120007324219",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-46.00680473287948",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-09",
+      "sma_50": "361.9060009765625",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.961929901423225",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-11",
+      "sma_50": "360.34700073242186",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-46.05540149278568",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-15",
+      "sma_50": "358.46300048828124",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-45.89340570147272",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-16",
+      "sma_50": "357.09300048828123",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-45.528915171018575",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-17",
+      "sma_50": "355.5870001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.79183629803231",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-21",
+      "sma_50": "353.755",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.297746168296264",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-22",
+      "sma_50": "351.4540002441406",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.37874406395274",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-23",
+      "sma_50": "349.73400024414065",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-43.61736681101338",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-24",
+      "sma_50": "348.18500061035155",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.82423249006337",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-25",
+      "sma_50": "346.8390002441406",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-47.93455366075981",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-28",
+      "sma_50": "345.70100036621096",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-47.553862562430524",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-29",
+      "sma_50": "344.85600036621094",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-48.18564515980721",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-04-30",
+      "sma_50": "344.5170001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-48.744532617324595",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-02",
+      "sma_50": "343.7690002441406",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-50.7532794408614",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-05",
+      "sma_50": "343.33800048828124",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.281545600421126",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-06",
+      "sma_50": "343.37300048828126",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-44.516441475312604",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-07",
+      "sma_50": "343.18400024414063",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-46.735785793787784",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-08",
+      "sma_50": "342.5300006103516",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-48.93892460066861",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-09",
+      "sma_50": "341.2440008544922",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-49.27911675116966",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-12",
+      "sma_50": "340.17800048828127",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-48.11275001994791",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-13",
+      "sma_50": "339.17800048828127",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-49.69220898524922",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-14",
+      "sma_50": "338.03100036621095",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-50.21869530701634",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-15",
+      "sma_50": "337.2540002441406",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-48.76883099727769",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-16",
+      "sma_50": "336.78900024414065",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-47.966949852790876",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-19",
+      "sma_50": "336.5660003662109",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-47.59436151025876",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-20",
+      "sma_50": "336.2670007324219",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-49.562609385967335",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-21",
+      "sma_50": "335.54200073242185",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-49.16572266348212",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-22",
+      "sma_50": "334.6730004882813",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-48.96322792434093",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-23",
+      "sma_50": "333.8950006103516",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-47.57006313030566",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-26",
+      "sma_50": "333.09300048828123",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-48.023649368494254",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-27",
+      "sma_50": "332.30300048828127",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-48.137048399901005",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-28",
+      "sma_50": "331.6500006103516",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-48.12894564410383",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-29",
+      "sma_50": "331.2510009765625",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-46.7276830379906",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-05-30",
+      "sma_50": "330.84800048828123",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-46.04730368070772",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-02",
+      "sma_50": "330.42",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-46.00680473287948",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-03",
+      "sma_50": "329.99",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-46.02300035703541",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-04",
+      "sma_50": "330.0329998779297",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.23602670122524",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-05",
+      "sma_50": "330.22899963378904",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.009233582130946",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-06",
+      "sma_50": "330.705",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-39.34067396537597",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-09",
+      "sma_50": "330.9679998779297",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-40.93633349855243",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-10",
+      "sma_50": "331.45",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.4223208724913",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-11",
+      "sma_50": "332.09399963378905",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.32140048050974",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-12",
+      "sma_50": "332.50099975585937",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.313297724712555",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-13",
+      "sma_50": "332.9809997558594",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.621088739463325",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-16",
+      "sma_50": "333.5620001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-41.52761714810087",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-17",
+      "sma_50": "333.785",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-42.369997240415934",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-18",
+      "sma_50": "334.19",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-40.80673884298975",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-19",
+      "sma_50": "334.9259997558594",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-39.38927566900139",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-20",
+      "sma_50": "336.28199951171877",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.90263928360367",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-23",
+      "sma_50": "337.39599975585935",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.98363717926015",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-24",
+      "sma_50": "338.42399963378904",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.63534721668113",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-25",
+      "sma_50": "339.7629998779297",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-35.20978128689559",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-26",
+      "sma_50": "341.1879998779297",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-34.35120557042461",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-27",
+      "sma_50": "342.6020001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-34.07581074770491",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-06-30",
+      "sma_50": "343.79400024414065",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-35.13688614703629",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-01",
+      "sma_50": "344.78600036621094",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.26275393042981",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-02",
+      "sma_50": "345.55",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-38.19050780202936",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-03",
+      "sma_50": "346.30900024414063",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.46962455319902",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-04",
+      "sma_50": "347.1670001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.87461403148141",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-07",
+      "sma_50": "348.2720001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-38.984286190719",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-08",
+      "sma_50": "349.4260003662109",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-38.20670342618528",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-09",
+      "sma_50": "350.63200012207034",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-38.417300921123655",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-10",
+      "sma_50": "351.9910003662109",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.736916620121555",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-11",
+      "sma_50": "353.6130004882813",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.615419776636834",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-14",
+      "sma_50": "354.595",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.32755620193036",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-15",
+      "sma_50": "355.5140002441406",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.07273288699459",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-16",
+      "sma_50": "356.73500061035156",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.84593976790029",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-17",
+      "sma_50": "358.1440002441406",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.5263240689024",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-18",
+      "sma_50": "359.6579998779297",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.01603831501043",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-21",
+      "sma_50": "361.1470001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.05216137921065",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-22",
+      "sma_50": "363.2790002441406",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-32.42345664254429",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-23",
+      "sma_50": "365.5070007324219",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-32.17236019977767",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-24",
+      "sma_50": "367.5670007324219",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-32.083264492043234",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-25",
+      "sma_50": "369.3020007324219",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-33.913814956391946",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-28",
+      "sma_50": "370.9740008544922",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-34.051512367751805",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-29",
+      "sma_50": "373.02300048828124",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-32.96614353218653",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-30",
+      "sma_50": "374.76900085449216",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-35.023487115629536",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-07-31",
+      "sma_50": "376.5430010986328",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-34.594199257394045",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-01",
+      "sma_50": "377.91700134277346",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.4409502896179",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-04",
+      "sma_50": "379.48400146484374",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-35.33127813038031",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-05",
+      "sma_50": "380.79200134277346",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.542524636777536",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-06",
+      "sma_50": "382.2670013427734",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.18175603477333",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-07",
+      "sma_50": "383.6600012207031",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-35.44467716178707",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-08",
+      "sma_50": "384.69500122070315",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-37.66402148026225",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-11",
+      "sma_50": "386.0430017089844",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-35.08828444341088",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-12",
+      "sma_50": "387.24400146484373",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-36.29515506618009",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-13",
+      "sma_50": "387.99700134277344",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-35.13688614703629",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-14",
+      "sma_50": "388.68200134277345",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-35.46087772966221",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-18",
+      "sma_50": "389.19000122070315",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-35.22598185477073",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-19",
+      "sma_50": "390.0920013427734",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-33.63032232159428",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-20",
+      "sma_50": "391.2810009765625",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-31.7916740451676",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-21",
+      "sma_50": "392.87400146484373",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-29.41843174745742",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-22",
+      "sma_50": "394.3100012207031",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-30.682001885930006",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-25",
+      "sma_50": "395.7390008544922",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-31.046492416384158",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-26",
+      "sma_50": "397.1310003662109",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-30.252714027694516",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-27",
+      "sma_50": "398.6270001220703",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-30.252714027694516",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-28",
+      "sma_50": "399.73900024414064",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-31.799771857245556",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-08-29",
+      "sma_50": "400.45100036621096",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-33.622224509516315",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-01",
+      "sma_50": "401.23100036621094",
+      "sma_200": null,
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-30.584803422398387",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-02",
+      "sma_50": "401.9700006103516",
+      "sma_200": "401.86375030517576",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-30.997890712758743",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-03",
+      "sma_50": "402.7590008544922",
+      "sma_200": "401.7367503356934",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-30.244611271897337",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-04",
+      "sma_50": "403.22200073242186",
+      "sma_200": "401.6987503051758",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-31.459579706744506",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-05",
+      "sma_50": "403.89800048828124",
+      "sma_200": "401.793500213623",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-28.87574980153439",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-08",
+      "sma_50": "404.6220001220703",
+      "sma_200": "401.94700012207034",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-28.21156606840743",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-09",
+      "sma_50": "405.3470001220703",
+      "sma_200": "402.04600006103516",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-29.26453871194164",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-10",
+      "sma_50": "405.95599975585935",
+      "sma_200": "402.0825",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-31.32998505118183",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-11",
+      "sma_50": "406.79900024414064",
+      "sma_200": "402.0475",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-31.362381243212887",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-12",
+      "sma_50": "407.49",
+      "sma_200": "401.84074996948243",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-31.872671940824077",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-15",
+      "sma_50": "408.31700012207034",
+      "sma_200": "401.46975006103514",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-31.176087071946835",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-16",
+      "sma_50": "409.52800048828124",
+      "sma_200": "401.1982501220703",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-29.175438060487984",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-17",
+      "sma_50": "410.71800048828123",
+      "sma_200": "401.04925018310547",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-28.5679538430644",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-18",
+      "sma_50": "412.00500061035154",
+      "sma_200": "400.8032501220703",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-27.992870761391096",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-19",
+      "sma_50": "413.48700073242185",
+      "sma_200": "400.58625015258787",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-25.733027495087672",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-22",
+      "sma_50": "414.77600036621095",
+      "sma_200": "400.24500015258786",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-27.174793992748352",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-23",
+      "sma_50": "415.8990008544922",
+      "sma_200": "399.791000213623",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-27.231488564732516",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-24",
+      "sma_50": "416.8990008544922",
+      "sma_200": "399.259750213623",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-28.97294332134679",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-25",
+      "sma_50": "417.6240008544922",
+      "sma_200": "398.70600036621096",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-30.973592332805637",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    },
+    {
+      "date": "2025-09-26",
+      "sma_50": "418.32400085449217",
+      "sma_200": "398.0905003356934",
+      "high_52w": "617.2999877929688",
+      "pct_from_52w_high": "-31.856471372948935",
+      "price_to_book": null,
+      "book_value_per_share": null,
+      "enterprise_value": "888970149888.0"
+    }
+  ],
+  "signal_events": [],
+  "fundamental_metrics": {
+    "processing_timestamp": "2025-09-28T10:29:22.095083",
+    "total_records": 218,
+    "price_records": 218,
+    "fundamental_records": 0,
+    "data_quality_issues": [
+      "Error fetching fundamental data: 'str' object has no attribute 'date'"
+    ],
+    "forward_fill_used": true,
+    "signal_detection_timestamp": "2025-09-28T10:29:22.111003",
+    "total_signals_detected": 0,
+    "golden_crossover_count": 0,
+    "death_cross_count": 0
+  },
+  "data_quality_notes": [
+    "Error fetching fundamental data: 'str' object has no attribute 'date'"
+  ],
+  "processing_metadata": {
+    "processing_timestamp": "2025-09-28T10:29:22.095083",
+    "total_records": 218,
+    "price_records": 218,
+    "fundamental_records": 0,
+    "data_quality_issues": [
+      "Error fetching fundamental data: 'str' object has no attribute 'date'"
+    ],
+    "forward_fill_used": true,
+    "signal_detection_timestamp": "2025-09-28T10:29:22.111003",
+    "total_signals_detected": 0,
+    "golden_crossover_count": 0,
+    "death_cross_count": 0
+  }
+}

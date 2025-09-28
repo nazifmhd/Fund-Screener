@@ -51,7 +51,6 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 config.yaml
-*.json
 logs/
 *.log
 

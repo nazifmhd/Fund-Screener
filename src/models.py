@@ -75,7 +75,7 @@ class SignalEvent(BaseModel):
     """Model for trading signal events."""
     
     ticker: str
-    signal_type: str = Field(..., regex="^(golden_crossover|death_cross)$")
+    signal_type: str = Field(..., pattern="^(golden_crossover|death_cross)$")
     date: date
     sma_50: Decimal
     sma_200: Decimal
@@ -161,7 +161,7 @@ class DatabaseSignalEvent(BaseModel):
     sma_200: Decimal
     price: Decimal
     volume: int
-    metadata: str  # JSON string
+    signal_metadata: str  # JSON string
     created_at: datetime
 
 

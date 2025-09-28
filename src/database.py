@@ -73,7 +73,7 @@ class SignalEvents(Base):
     sma_200 = Column(Float, nullable=False)
     price = Column(Float, nullable=False)
     volume = Column(Integer, nullable=False)
-    metadata = Column(Text)  # JSON string
+    signal_metadata = Column(Text)  # JSON string
     created_at = Column(DateTime, default=datetime.utcnow)
 
 
@@ -240,7 +240,7 @@ class DatabaseManager:
                             sma_200=float(signal.sma_200),
                             price=float(signal.price),
                             volume=signal.volume,
-                            metadata=signal.metadata,
+                            signal_metadata=signal.metadata,
                             created_at=signal.created_at
                         )
                         
@@ -360,7 +360,7 @@ class DatabaseManager:
                     sma_200=signal.sma_200,
                     price=signal.price,
                     volume=signal.volume,
-                    metadata=json.dumps(signal.metadata),
+                    signal_metadata=json.dumps(signal.metadata),
                     created_at=datetime.utcnow()
                 )
                 db_events.append(db_event)

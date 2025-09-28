@@ -2,7 +2,7 @@
 
 import logging
 from datetime import date, datetime
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Any
 import pandas as pd
 import numpy as np
 from decimal import Decimal
@@ -136,7 +136,7 @@ class DataProcessor:
         
         # Forward-fill fundamental data if enabled
         if self.forward_fill_fundamentals:
-            df = df.fillna(method='ffill')
+            df = df.ffill()
             logger.info("Applied forward-fill to fundamental data")
         
         return df
