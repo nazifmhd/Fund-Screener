@@ -37,7 +37,7 @@ A comprehensive financial analysis pipeline that processes stock data, calculate
 
 ```bash
 # Clone the repository
-git clone [<repository-url>](https://github.com/nazifmhd/Fund-Screener.git)
+git clone https://github.com/nazifmhd/Fund-Screener.git
 cd Fund-Screener
 
 # Install dependencies
@@ -51,7 +51,7 @@ pip install -e ".[dev]"
 
 ```bash
 # Clone the repository
-git clone [<repository-url>](https://github.com/nazifmhd/Fund-Screener.git)
+git clone https://github.com/nazifmhd/Fund-Screener.git
 cd Fund-Screener
 
 # Install dependencies
