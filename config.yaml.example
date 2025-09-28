@@ -1,0 +1,24 @@
+database:
+  path: "financial_data.db"
+
+logging:
+  level: "INFO"
+
+data_settings:
+  historical_period: "5y"
+  min_trading_days_for_sma: 200
+  fallback_fundamental_data: true
+  forward_fill_fundamentals: true
+
+api_settings:
+  timeout: 30
+  retry_attempts: 3
+  retry_delay: 1
+
+markets:
+  us:
+    suffix: ""
+    exchange: "US"
+  india:
+    suffix: ".NS"
+    exchange: "NSE"
